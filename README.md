@@ -9,4 +9,5 @@ Olá! Bem vindo ao meu perfil do GitHub.🐱‍💻
 🤓--->Ensino: Médio completo e atualmente decidindo a melhor forma de iniciar uma faculdade.
 
 Estou aprendendo:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
